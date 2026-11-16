@@ -48,57 +48,32 @@ T2  - Dept. of Health, London, U.K., Rep. HC 414, Oct. 2017
 N1  - [5] National Audit Office, “Investigation: WannaCry cyber attack and the NHS,” Dept. of Health, London, U.K., Rep. HC 414, Oct. 2017.
 ER  - 
 
-TY  - CONF
+TY  - RPRT
 ID  - 6
-TI  - Cutting the Gordian knot: A look under the hood of ransomware attacks
-AU  - A. Kharraz
-AU  - W. Robertson
-AU  - D. Balzarotti
-AU  - L. Bilge
-AU  - E. Kirda
-PY  - 2015
-T2  - in Proc. Int. Conf. Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA), Milan, Italy, 2015, pp. 3–24
-N1  - [6] A. Kharraz, W. Robertson, D. Balzarotti, L. Bilge, and E. Kirda, “Cutting the Gordian knot: A look under the hood of ransomware attacks,” in Proc. Int. Conf. Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA), Milan, Italy, 2015, pp. 3–24.
+TI  - ENISA threat landscape 2024
+AU  - European Union Agency for Cybersecurity
+PY  - 2024
+T2  - Sep. 2024
+UR  - https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024
+N1  - [6] European Union Agency for Cybersecurity, “ENISA threat landscape 2024,” Sep. 2024. [Online]. Available: https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024
 ER  - 
 
-TY  - JOUR
+TY  - CONF
 ID  - 7
-TI  - Ransomware threat success factors, taxonomy, and countermeasures: A survey and research directions
-AU  - B. A. S. Al-rimy
-AU  - M. A. Maarof
-AU  - S. Z. M. Shaid
-PY  - 2018
-T2  - Comput. Secur., vol. 74, pp. 144–166, 2018
-N1  - [7] B. A. S. Al-rimy, M. A. Maarof, and S. Z. M. Shaid, “Ransomware threat success factors, taxonomy, and countermeasures: A survey and research directions,” Comput. Secur., vol. 74, pp. 144–166, 2018.
+TI  - Ransomware detection and classification strategies
+AU  - A. Vehabovic
+AU  - N. Ghani
+AU  - E. Bou-Harb
+AU  - J. Crichigno
+AU  - A. Yayimli
+PY  - 2022
+T2  - in Proc. IEEE Int. Black Sea Conf. Commun. Netw. (BlackSeaCom), 2022, pp. 316–324
+DO  - 10.1109/BlackSeaCom54372.2022.9858296
+N1  - [7] A. Vehabovic, N. Ghani, E. Bou-Harb, J. Crichigno, and A. Yayimli, “Ransomware detection and classification strategies,” in Proc. IEEE Int. Black Sea Conf. Commun. Netw. (BlackSeaCom), 2022, pp. 316–324.
 ER  - 
 
 TY  - JOUR
 ID  - 8
-TI  - A survey on detection techniques for cryptographic ransomware
-AU  - E. Berrueta
-AU  - D. Morato
-AU  - E. Magaña
-AU  - M. Izal
-PY  - 2019
-T2  - IEEE Access, vol. 7, pp. 144925–144944, 2019
-N1  - [8] E. Berrueta, D. Morato, E. Magaña, and M. Izal, “A survey on detection techniques for cryptographic ransomware,” IEEE Access, vol. 7, pp. 144925–144944, 2019.
-ER  - 
-
-TY  - JOUR
-ID  - 9
-TI  - Ransomware mitigation in the modern era: A comprehensive review, research challenges, and future directions
-AU  - T. McIntosh
-AU  - A. S. M. Kayes
-AU  - Y.-P. P. Chen
-AU  - A. Ng
-AU  - P. Watters
-PY  - 2021
-T2  - ACM Comput. Surv., vol. 54, no. 9, pp. 1–36, 2021
-N1  - [9] T. McIntosh, A. S. M. Kayes, Y.-P. P. Chen, A. Ng, and P. Watters, “Ransomware mitigation in the modern era: A comprehensive review, research challenges, and future directions,” ACM Comput. Surv., vol. 54, no. 9, pp. 1–36, 2021.
-ER  - 
-
-TY  - JOUR
-ID  - 10
 TI  - A survey on ransomware: Evolution, taxonomy, and defense solutions
 AU  - H. Oz
 AU  - A. Aris
@@ -106,30 +81,63 @@ AU  - A. Levi
 AU  - A. S. Uluagac
 PY  - 2022
 T2  - ACM Comput. Surv., vol. 54, no. 11s, Art. no. 238, 2022
-N1  - [10] H. Oz, A. Aris, A. Levi, and A. S. Uluagac, “A survey on ransomware: Evolution, taxonomy, and defense solutions,” ACM Comput. Surv., vol. 54, no. 11s, Art. no. 238, 2022.
+DO  - 10.1145/3514229
+N1  - [8] H. Oz, A. Aris, A. Levi, and A. S. Uluagac, “A survey on ransomware: Evolution, taxonomy, and defense solutions,” ACM Comput. Surv., vol. 54, no. 11s, Art. no. 238, 2022.
 ER  - 
 
 TY  - JOUR
-ID  - 11
+ID  - 9
 TI  - Ransomware reloaded: Re-examining its trend, research and mitigation in the era of data exfiltration
 AU  - T. McIntosh et al.
 PY  - 2024
 T2  - ACM Comput. Surv., vol. 57, no. 1, 2024
-N1  - [11] T. McIntosh et al., “Ransomware reloaded: Re-examining its trend, research and mitigation in the era of data exfiltration,” ACM Comput. Surv., vol. 57, no. 1, 2024.
+N1  - [9] T. McIntosh et al., “Ransomware reloaded: Re-examining its trend, research and mitigation in the era of data exfiltration,” ACM Comput. Surv., vol. 57, no. 1, 2024.
+ER  - 
+
+TY  - JOUR
+ID  - 10
+TI  - Trends in ransomware attacks on US hospitals, clinics, and other health care delivery organizations, 2016–2021
+AU  - H. T. Neprash et al.
+PY  - 2022
+T2  - JAMA Health Forum, vol. 3, no. 12, Art. no. e224873, 2022
+DO  - 10.1001/jamahealthforum.2022.4873
+N1  - [10] H. T. Neprash et al., “Trends in ransomware attacks on US hospitals, clinics, and other health care delivery organizations, 2016–2021,” JAMA Health Forum, vol. 3, no. 12, Art. no. e224873, 2022.
+ER  - 
+
+TY  - JOUR
+ID  - 11
+TI  - Ransomware attack associated with disruptions at adjacent emergency departments in the US
+AU  - C. Dameff et al.
+PY  - 2023
+T2  - JAMA Netw. Open, vol. 6, no. 5, Art. no. e2312270, 2023
+DO  - 10.1001/jamanetworkopen.2023.12270
+N1  - [11] C. Dameff et al., “Ransomware attack associated with disruptions at adjacent emergency departments in the US,” JAMA Netw. Open, vol. 6, no. 5, Art. no. e2312270, 2023.
+ER  - 
+
+TY  - JOUR
+ID  - 12
+TI  - Ransomware attacks, ED visits and inpatient admissions in targeted and nearby hospitals
+AU  - R. Abouk
+AU  - D. Powell
+PY  - 2024
+T2  - JAMA, vol. 331, no. 24, pp. 2129–2131, 2024
+DO  - 10.1001/jama.2024.7752
+N1  - [12] R. Abouk and D. Powell, “Ransomware attacks, ED visits and inpatient admissions in targeted and nearby hospitals,” JAMA, vol. 331, no. 24, pp. 2129–2131, 2024.
 ER  - 
 
 TY  - CONF
-ID  - 12
+ID  - 13
 TI  - Automated behavioral analysis of malware: A case study of WannaCry ransomware
 AU  - Q. Chen
 AU  - R. A. Bridges
 PY  - 2017
 T2  - in Proc. 16th IEEE Int. Conf. Mach. Learn. Appl. (ICMLA), Cancun, Mexico, 2017, pp. 454–460
-N1  - [12] Q. Chen and R. A. Bridges, “Automated behavioral analysis of malware: A case study of WannaCry ransomware,” in Proc. 16th IEEE Int. Conf. Mach. Learn. Appl. (ICMLA), Cancun, Mexico, 2017, pp. 454–460.
+DO  - 10.1109/ICMLA.2017.0-119
+N1  - [13] Q. Chen and R. A. Bridges, “Automated behavioral analysis of malware: A case study of WannaCry ransomware,” in Proc. 16th IEEE Int. Conf. Mach. Learn. Appl. (ICMLA), Cancun, Mexico, 2017, pp. 454–460.
 ER  - 
 
 TY  - UNPB
-ID  - 13
+ID  - 14
 TI  - Automated dynamic analysis of ransomware: Benefits, limitations and use for detection
 AU  - D. Sgandurra
 AU  - L. Muñoz-González
@@ -137,27 +145,17 @@ AU  - R. Mohsen
 AU  - E. C. Lupu
 PY  - 2016
 T2  - arXiv:1609.03020, 2016 (preprint)
-N1  - [13] D. Sgandurra, L. Muñoz-González, R. Mohsen, and E. C. Lupu, “Automated dynamic analysis of ransomware: Benefits, limitations and use for detection,” arXiv:1609.03020, 2016 (preprint).
+N1  - [14] D. Sgandurra, L. Muñoz-González, R. Mohsen, and E. C. Lupu, “Automated dynamic analysis of ransomware: Benefits, limitations and use for detection,” arXiv:1609.03020, 2016 (preprint).
 ER  - 
 
 TY  - RPRT
-ID  - 14
+ID  - 15
 TI  - Player 3 has entered the game: Say hello to ‘WannaCry’
 AU  - Cisco Talos
 PY  - 2017
 T2  - Talos Intelligence Blog, May 12, 2017
 UR  - https://blog.talosintelligence.com/wannacry/
-N1  - [14] Cisco Talos, “Player 3 has entered the game: Say hello to ‘WannaCry’,” Talos Intelligence Blog, May 12, 2017. [Online]. Available: https://blog.talosintelligence.com/wannacry/
-ER  - 
-
-TY  - JOUR
-ID  - 15
-TI  - A brief study of WannaCry threat: Ransomware attack 2017
-AU  - S. Mohurle
-AU  - M. Patil
-PY  - 2017
-T2  - Int. J. Adv. Res. Comput. Sci., vol. 8, no. 5, pp. 1938–1940, 2017
-N1  - [15] S. Mohurle and M. Patil, “A brief study of WannaCry threat: Ransomware attack 2017,” Int. J. Adv. Res. Comput. Sci., vol. 8, no. 5, pp. 1938–1940, 2017.
+N1  - [15] Cisco Talos, “Player 3 has entered the game: Say hello to ‘WannaCry’,” Talos Intelligence Blog, May 12, 2017. [Online]. Available: https://blog.talosintelligence.com/wannacry/
 ER  - 
 
 TY  - CONF
@@ -167,6 +165,7 @@ AU  - S.-C. Hsiao
 AU  - D.-Y. Kao
 PY  - 2018
 T2  - in Proc. 20th Int. Conf. Adv. Commun. Technol. (ICACT), Chuncheon, Korea, 2018, pp. 153–158
+DO  - 10.23919/ICACT.2018.8323680
 N1  - [16] S.-C. Hsiao and D.-Y. Kao, “The static analysis of WannaCry ransomware,” in Proc. 20th Int. Conf. Adv. Commun. Technol. (ICACT), Chuncheon, Korea, 2018, pp. 153–158.
 ER  - 
 
@@ -177,6 +176,7 @@ AU  - D.-Y. Kao
 AU  - S.-C. Hsiao
 PY  - 2018
 T2  - in Proc. 20th Int. Conf. Adv. Commun. Technol. (ICACT), Chuncheon, Korea, 2018, pp. 159–166
+DO  - 10.23919/ICACT.2018.8323682
 N1  - [17] D.-Y. Kao and S.-C. Hsiao, “The dynamic analysis of WannaCry ransomware,” in Proc. 20th Int. Conf. Adv. Commun. Technol. (ICACT), Chuncheon, Korea, 2018, pp. 159–166.
 ER  - 
 
@@ -188,6 +188,7 @@ AU  - V. G. Vassilakis
 AU  - M. D. Logothetis
 PY  - 2019
 T2  - J. Telecommun. Inf. Technol., vol. 75, no. 1, pp. 113–124, 2019
+DO  - 10.26636/jtit.2019.130218
 N1  - [18] M. Akbanov, V. G. Vassilakis, and M. D. Logothetis, “WannaCry ransomware: Analysis of infection, persistence, recovery prevention and propagation mechanisms,” J. Telecommun. Inf. Technol., vol. 75, no. 1, pp. 113–124, 2019.
 ER  - 
 
@@ -199,18 +200,19 @@ AU  - V. G. Vassilakis
 AU  - M. D. Logothetis
 PY  - 2019
 T2  - Comput. Electr. Eng., vol. 76, pp. 111–121, 2019
+DO  - 10.1016/j.compeleceng.2019.03.012
 N1  - [19] M. Akbanov, V. G. Vassilakis, and M. D. Logothetis, “Ransomware detection and mitigation using software-defined networking: The case of WannaCry,” Comput. Electr. Eng., vol. 76, pp. 111–121, 2019.
 ER  - 
 
 TY  - JOUR
 ID  - 20
-TI  - Ransomware behavioural analysis on Windows platforms
-AU  - N. Hampton
-AU  - Z. Baig
-AU  - S. Zeadally
-PY  - 2018
-T2  - J. Inf. Secur. Appl., vol. 40, pp. 44–51, 2018
-N1  - [20] N. Hampton, Z. Baig, and S. Zeadally, “Ransomware behavioural analysis on Windows platforms,” J. Inf. Secur. Appl., vol. 40, pp. 44–51, 2018.
+TI  - Behavioural analysis and results of malware and ransomware using optimal behavioural feature set
+AU  - L. B. Bhagwat
+AU  - B. M. Patil
+PY  - 2024
+T2  - Int. J. Inf. Comput. Secur., vol. 23, no. 1, pp. 57–78, 2024
+DO  - 10.1504/IJICS.2024.136719
+N1  - [20] L. B. Bhagwat and B. M. Patil, “Behavioural analysis and results of malware and ransomware using optimal behavioural feature set,” Int. J. Inf. Comput. Secur., vol. 23, no. 1, pp. 57–78, 2024.
 ER  - 
 
 TY  - RPRT
@@ -233,19 +235,46 @@ UR  - https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cybe
 N1  - [22] M. Hutchins (MalwareTech), “How to accidentally stop a global cyber attacks,” May 13, 2017. [Online]. Available: https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html
 ER  - 
 
-TY  - JOUR
+TY  - RPRT
 ID  - 23
-TI  - Software-defined networking-based crypto ransomware detection using HTTP traffic characteristics
-AU  - K. Cabaj
-AU  - M. Gregorczyk
-AU  - W. Mazurczyk
-PY  - 2018
-T2  - Comput. Electr. Eng., vol. 66, pp. 353–368, 2018
-N1  - [23] K. Cabaj, M. Gregorczyk, and W. Mazurczyk, “Software-defined networking-based crypto ransomware detection using HTTP traffic characteristics,” Comput. Electr. Eng., vol. 66, pp. 353–368, 2018.
+TI  - Ransomware risk management: A cybersecurity framework profile
+AU  - W. Barker
+AU  - W. Fisher
+AU  - K. Scarfone
+AU  - M. Souppaya
+PY  - 2022
+T2  - Nat. Inst. Standards Technol., Gaithersburg, MD, USA, NIST IR 8374, Feb. 2022
+DO  - 10.6028/NIST.IR.8374
+N1  - [23] W. Barker, W. Fisher, K. Scarfone, and M. Souppaya, “Ransomware risk management: A cybersecurity framework profile,” Nat. Inst. Standards Technol., Gaithersburg, MD, USA, NIST IR 8374, Feb. 2022.
+ER  - 
+
+TY  - RPRT
+ID  - 24
+TI  - #StopRansomware guide
+AU  - CISA
+AU  - FBI
+AU  - NSA
+AU  - MS-ISAC
+PY  - 2023
+T2  - Oct. 2023
+UR  - https://www.cisa.gov/stopransomware/ransomware-guide
+N1  - [24] CISA, FBI, NSA, and MS-ISAC, “#StopRansomware guide,” Oct. 2023. [Online]. Available: https://www.cisa.gov/stopransomware/ransomware-guide
+ER  - 
+
+TY  - JOUR
+ID  - 25
+TI  - Detecting lateral movement: A systematic survey
+AU  - C. Smiliotopoulos
+AU  - G. Kambourakis
+AU  - C. Kolias
+PY  - 2024
+T2  - Heliyon, vol. 10, no. 4, Art. no. e26317, 2024
+DO  - 10.1016/j.heliyon.2024.e26317
+N1  - [25] C. Smiliotopoulos, G. Kambourakis, and C. Kolias, “Detecting lateral movement: A systematic survey,” Heliyon, vol. 10, no. 4, Art. no. e26317, 2024.
 ER  - 
 
 TY  - CONF
-ID  - 24
+ID  - 26
 TI  - UNVEIL: A large-scale, automated approach to detecting ransomware
 AU  - A. Kharraz
 AU  - S. Arshad
@@ -254,11 +283,11 @@ AU  - W. Robertson
 AU  - E. Kirda
 PY  - 2016
 T2  - in Proc. 25th USENIX Secur. Symp., Austin, TX, USA, 2016, pp. 757–772
-N1  - [24] A. Kharraz, S. Arshad, C. Mulliner, W. Robertson, and E. Kirda, “UNVEIL: A large-scale, automated approach to detecting ransomware,” in Proc. 25th USENIX Secur. Symp., Austin, TX, USA, 2016, pp. 757–772.
+N1  - [26] A. Kharraz, S. Arshad, C. Mulliner, W. Robertson, and E. Kirda, “UNVEIL: A large-scale, automated approach to detecting ransomware,” in Proc. 25th USENIX Secur. Symp., Austin, TX, USA, 2016, pp. 757–772.
 ER  - 
 
 TY  - CONF
-ID  - 25
+ID  - 27
 TI  - CryptoLock (and drop it): Stopping ransomware attacks on user data
 AU  - N. Scaife
 AU  - H. Carter
@@ -266,30 +295,48 @@ AU  - P. Traynor
 AU  - K. R. B. Butler
 PY  - 2016
 T2  - in Proc. IEEE 36th Int. Conf. Distrib. Comput. Syst. (ICDCS), Nara, Japan, 2016, pp. 303–312
-N1  - [25] N. Scaife, H. Carter, P. Traynor, and K. R. B. Butler, “CryptoLock (and drop it): Stopping ransomware attacks on user data,” in Proc. IEEE 36th Int. Conf. Distrib. Comput. Syst. (ICDCS), Nara, Japan, 2016, pp. 303–312.
+N1  - [27] N. Scaife, H. Carter, P. Traynor, and K. R. B. Butler, “CryptoLock (and drop it): Stopping ransomware attacks on user data,” in Proc. IEEE 36th Int. Conf. Distrib. Comput. Syst. (ICDCS), Nara, Japan, 2016, pp. 303–312.
 ER  - 
 
 TY  - JOUR
-ID  - 26
-TI  - Trusted detection of ransomware in a private cloud using machine learning methods leveraging meta-features from volatile memory
-AU  - A. Cohen
-AU  - N. Nissim
-PY  - 2018
-T2  - Expert Syst. Appl., vol. 102, pp. 158–178, 2018
-N1  - [26] A. Cohen and N. Nissim, “Trusted detection of ransomware in a private cloud using machine learning methods leveraging meta-features from volatile memory,” Expert Syst. Appl., vol. 102, pp. 158–178, 2018.
+ID  - 28
+TI  - Real-time system call-based ransomware detection
+AU  - C. J. W. Chew
+AU  - V. Kumar
+AU  - P. Patros
+AU  - R. Malik
+PY  - 2024
+T2  - Int. J. Inf. Secur., vol. 23, no. 3, pp. 1839–1858, 2024
+DO  - 10.1007/s10207-024-00819-x
+N1  - [28] C. J. W. Chew, V. Kumar, P. Patros, and R. Malik, “Real-time system call-based ransomware detection,” Int. J. Inf. Secur., vol. 23, no. 3, pp. 1839–1858, 2024.
 ER  - 
 
 TY  - CONF
-ID  - 27
+ID  - 29
 TI  - ShieldFS: A self-healing, ransomware-aware filesystem
 AU  - A. Continella et al.
 PY  - 2016
 T2  - in Proc. 32nd Annu. Comput. Secur. Appl. Conf. (ACSAC), Los Angeles, CA, USA, 2016, pp. 336–347
-N1  - [27] A. Continella et al., “ShieldFS: A self-healing, ransomware-aware filesystem,” in Proc. 32nd Annu. Comput. Secur. Appl. Conf. (ACSAC), Los Angeles, CA, USA, 2016, pp. 336–347.
+N1  - [29] A. Continella et al., “ShieldFS: A self-healing, ransomware-aware filesystem,” in Proc. 32nd Annu. Comput. Secur. Appl. Conf. (ACSAC), Los Angeles, CA, USA, 2016, pp. 336–347.
+ER  - 
+
+TY  - UNPB
+ID  - 30
+TI  - GuardFS: A file system for integrated detection and mitigation of Linux-based ransomware
+AU  - J. von der Assen
+AU  - C. Feng
+AU  - A. Huertas Celdrán
+AU  - R. Oleš
+AU  - G. Bovet
+AU  - B. Stiller
+PY  - 2024
+T2  - arXiv:2401.17917, 2024 (preprint)
+DO  - 10.48550/arXiv.2401.17917
+N1  - [30] J. von der Assen, C. Feng, A. Huertas Celdrán, R. Oleš, G. Bovet, and B. Stiller, “GuardFS: A file system for integrated detection and mitigation of Linux-based ransomware,” arXiv:2401.17917, 2024 (preprint).
 ER  - 
 
 TY  - CONF
-ID  - 28
+ID  - 31
 TI  - PayBreak: Defense against cryptographic ransomware
 AU  - E. Kolodenker
 AU  - W. Koch
@@ -297,30 +344,30 @@ AU  - G. Stringhini
 AU  - M. Egele
 PY  - 2017
 T2  - in Proc. ACM Asia Conf. Comput. Commun. Secur. (AsiaCCS), Abu Dhabi, UAE, 2017, pp. 599–611
-N1  - [28] E. Kolodenker, W. Koch, G. Stringhini, and M. Egele, “PayBreak: Defense against cryptographic ransomware,” in Proc. ACM Asia Conf. Comput. Commun. Secur. (AsiaCCS), Abu Dhabi, UAE, 2017, pp. 599–611.
+N1  - [31] E. Kolodenker, W. Koch, G. Stringhini, and M. Egele, “PayBreak: Defense against cryptographic ransomware,” in Proc. ACM Asia Conf. Comput. Commun. Secur. (AsiaCCS), Abu Dhabi, UAE, 2017, pp. 599–611.
 ER  - 
 
 TY  - COMP
-ID  - 29
+ID  - 32
 TI  - wannakey: Software for recovering WannaCry RSA private keys
 AU  - A. Guinet
 PY  - 2017
 T2  - GitHub repository, 2017
 UR  - https://github.com/aguinet/wannakey
-N1  - [29] A. Guinet, “wannakey: Software for recovering WannaCry RSA private keys,” GitHub repository, 2017. [Online]. Available: https://github.com/aguinet/wannakey
+N1  - [32] A. Guinet, “wannakey: Software for recovering WannaCry RSA private keys,” GitHub repository, 2017. [Online]. Available: https://github.com/aguinet/wannakey
 ER  - 
 
 TY  - RPRT
-ID  - 30
+ID  - 33
 TI  - Lessons learned review of the WannaCry ransomware cyber attack
 AU  - W. Smart
 PY  - 2018
 T2  - Dept. of Health and Social Care, London, U.K., Feb. 2018
-N1  - [30] W. Smart, “Lessons learned review of the WannaCry ransomware cyber attack,” Dept. of Health and Social Care, London, U.K., Feb. 2018.
+N1  - [33] W. Smart, “Lessons learned review of the WannaCry ransomware cyber attack,” Dept. of Health and Social Care, London, U.K., Feb. 2018.
 ER  - 
 
 TY  - JOUR
-ID  - 31
+ID  - 34
 TI  - A retrospective impact analysis of the WannaCry cyberattack on the NHS
 AU  - S. Ghafur
 AU  - S. Kristensen
@@ -330,71 +377,67 @@ AU  - A. Darzi
 AU  - P. Aylin
 PY  - 2019
 T2  - npj Digit. Med., vol. 2, Art. no. 98, 2019
-N1  - [31] S. Ghafur, S. Kristensen, K. Honeyford, G. Martin, A. Darzi, and P. Aylin, “A retrospective impact analysis of the WannaCry cyberattack on the NHS,” npj Digit. Med., vol. 2, Art. no. 98, 2019.
+DO  - 10.1038/s41746-019-0161-6
+N1  - [34] S. Ghafur, S. Kristensen, K. Honeyford, G. Martin, A. Darzi, and P. Aylin, “A retrospective impact analysis of the WannaCry cyberattack on the NHS,” npj Digit. Med., vol. 2, Art. no. 98, 2019.
 ER  - 
 
 TY  - JOUR
-ID  - 32
-TI  - Effective cybersecurity is fundamental to patient safety
-AU  - G. Martin
-AU  - J. Kinross
-AU  - C. Hankin
-PY  - 2017
-T2  - BMJ, vol. 357, Art. no. j2375, 2017
-N1  - [32] G. Martin, J. Kinross, and C. Hankin, “Effective cybersecurity is fundamental to patient safety,” BMJ, vol. 357, Art. no. j2375, 2017.
-ER  - 
-
-TY  - JOUR
-ID  - 33
-TI  - WannaCry, cybersecurity and health information technology: A time to act
-AU  - J. M. Ehrenfeld
-PY  - 2017
-T2  - J. Med. Syst., vol. 41, Art. no. 104, 2017
-N1  - [33] J. M. Ehrenfeld, “WannaCry, cybersecurity and health information technology: A time to act,” J. Med. Syst., vol. 41, Art. no. 104, 2017.
+ID  - 35
+TI  - Characteristics of short-term acute care hospitals that experienced a ransomware attack from 2016 to 2021
+AU  - C. C. McGlave
+AU  - S. S. Nikpay
+AU  - C. Henning-Smith
+AU  - K. Rydberg
+AU  - H. T. Neprash
+PY  - 2023
+T2  - Health Aff. Scholar, vol. 1, no. 3, Art. no. qxad037, 2023
+DO  - 10.1093/haschl/qxad037
+N1  - [35] C. C. McGlave, S. S. Nikpay, C. Henning-Smith, K. Rydberg, and H. T. Neprash, “Characteristics of short-term acute care hospitals that experienced a ransomware attack from 2016 to 2021,” Health Aff. Scholar, vol. 1, no. 3, Art. no. qxad037, 2023.
 ER  - 
 
 TY  - RPRT
-ID  - 34
+ID  - 36
+TI  - ENISA threat landscape for ransomware attacks
+AU  - European Union Agency for Cybersecurity
+PY  - 2022
+T2  - Jul. 2022
+UR  - https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-ransomware-attacks
+N1  - [36] European Union Agency for Cybersecurity, “ENISA threat landscape for ransomware attacks,” Jul. 2022. [Online]. Available: https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-ransomware-attacks
+ER  - 
+
+TY  - RPRT
+ID  - 37
 TI  - WannaCry: Ransomware attacks show strong links to Lazarus group
 AU  - Symantec Security Response
 PY  - 2017
 T2  - May 22, 2017
 UR  - https://www.symantec.com/connect/blogs/wannacry-ransomware-attacks-show-strong-links-lazarus-group
-N1  - [34] Symantec Security Response, “WannaCry: Ransomware attacks show strong links to Lazarus group,” May 22, 2017. [Online]. Available: https://www.symantec.com/connect/blogs/wannacry-ransomware-attacks-show-strong-links-lazarus-group
+N1  - [37] Symantec Security Response, “WannaCry: Ransomware attacks show strong links to Lazarus group,” May 22, 2017. [Online]. Available: https://www.symantec.com/connect/blogs/wannacry-ransomware-attacks-show-strong-links-lazarus-group
 ER  - 
 
-TY  - ELEC
-ID  - 35
+TY  - RPRT
+ID  - 38
 TI  - Press briefing on the attribution of the WannaCry malware attack to North Korea
 AU  - The White House
 PY  - 2017
 T2  - Washington, DC, USA, Dec. 19, 2017
-N1  - [35] The White House, “Press briefing on the attribution of the WannaCry malware attack to North Korea,” Washington, DC, USA, Dec. 19, 2017.
+N1  - [38] The White House, “Press briefing on the attribution of the WannaCry malware attack to North Korea,” Washington, DC, USA, Dec. 19, 2017.
 ER  - 
 
-TY  - ELEC
-ID  - 36
+TY  - RPRT
+ID  - 39
 TI  - North Korean regime-backed programmer charged with conspiracy to conduct multiple cyber attacks and intrusions
 AU  - U.S. Department of Justice
 PY  - 2018
 T2  - Press release, Sep. 6, 2018
-N1  - [36] U.S. Department of Justice, “North Korean regime-backed programmer charged with conspiracy to conduct multiple cyber attacks and intrusions,” Press release, Sep. 6, 2018.
-ER  - 
-
-TY  - ELEC
-ID  - 37
-TI  - The need for urgent collective action to keep people safe online: Lessons from last week’s cyberattack
-AU  - B. Smith
-PY  - 2017
-T2  - Microsoft On the Issues, May 14, 2017
-N1  - [37] B. Smith, “The need for urgent collective action to keep people safe online: Lessons from last week’s cyberattack,” Microsoft On the Issues, May 14, 2017.
+N1  - [39] U.S. Department of Justice, “North Korean regime-backed programmer charged with conspiracy to conduct multiple cyber attacks and intrusions,” Press release, Sep. 6, 2018.
 ER  - 
 
 TY  - CONF
-ID  - 38
+ID  - 40
 TI  - Tracking ransomware end-to-end
 AU  - D. Y. Huang et al.
 PY  - 2018
 T2  - in Proc. IEEE Symp. Secur. Privacy (SP), San Francisco, CA, USA, 2018, pp. 618–631
-N1  - [38] D. Y. Huang et al., “Tracking ransomware end-to-end,” in Proc. IEEE Symp. Secur. Privacy (SP), San Francisco, CA, USA, 2018, pp. 618–631.
+N1  - [40] D. Y. Huang et al., “Tracking ransomware end-to-end,” in Proc. IEEE Symp. Secur. Privacy (SP), San Francisco, CA, USA, 2018, pp. 618–631.
 ER  - 
