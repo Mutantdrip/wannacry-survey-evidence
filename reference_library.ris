@@ -1,0 +1,310 @@
+TY  - GEN
+ID  - 1
+TI  - CVE-2017-0144 detail
+PY  - 2017
+N1  - National Institute of Standards and Technology, “CVE-2017-0144 detail,” National Vulnerability Database. [Online]. Available: https://nvd.nist.gov/vuln/detail/CVE-2017-0144
+UR  - https://nvd.nist.gov/vuln/detail/CVE-2017-0144
+ER  - 
+
+TY  - GEN
+ID  - 2
+TI  - Microsoft Security Bulletin MS17-010 – Critical: Security update for Microsoft Windows SMB Server (4013389)
+PY  - 2017
+N1  - Microsoft Corp., “Microsoft Security Bulletin MS17-010 – Critical: Security update for Microsoft Windows SMB Server (4013389),” Mar. 14, 2017. [Online]. Available: https://learn.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010
+UR  - https://learn.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010
+ER  - 
+
+TY  - GEN
+ID  - 3
+TI  - Alert (TA17-132A): Indicators associated with WannaCry ransomware
+PY  - 2017
+N1  - United States Computer Emergency Readiness Team, “Alert (TA17-132A): Indicators associated with WannaCry ransomware,” May 12, 2017. [Online]. Available: https://www.cisa.gov/news-events/alerts/2017/05/12/indicators-associated-wannacry-ransomware
+UR  - https://www.cisa.gov/news-events/alerts/2017/05/12/indicators-associated-wannacry-ransomware
+ER  - 
+
+TY  - GEN
+ID  - 4
+TI  - WannaCry ransomware used in widespread attacks all over the world
+PY  - 2017
+N1  - Kaspersky GReAT, “WannaCry ransomware used in widespread attacks all over the world,” Securelist, May 12, 2017. [Online]. Available: https://securelist.com/wannacry-ransomware-used-in-widespread-attacks-all-over-the-world/78351/
+UR  - https://securelist.com/wannacry-ransomware-used-in-widespread-attacks-all-over-the-world/78351/
+ER  - 
+
+TY  - GEN
+ID  - 5
+TI  - Investigation: WannaCry cyber attack and the NHS
+PY  - 2017
+N1  - National Audit Office, “Investigation: WannaCry cyber attack and the NHS,” Dept. of Health, London, U.K., Rep. HC 414, Oct. 2017.
+ER  - 
+
+TY  - GEN
+ID  - 6
+TI  - A survey on ransomware: Evolution, taxonomy, and defense solutions
+PY  - 2022
+N1  - H. Oz, A. Aris, A. Levi, and A. S. Uluagac, “A survey on ransomware: Evolution, taxonomy, and defense solutions,” ACM Comput. Surv., vol. 54, no. 11s, Art. no. 238, 2022.
+ER  - 
+
+TY  - GEN
+ID  - 7
+TI  - Ransomware reloaded: Re-examining its trend, research and mitigation in the era of data exfiltration
+PY  - 2024
+N1  - T. McIntosh et al., “Ransomware reloaded: Re-examining its trend, research and mitigation in the era of data exfiltration,” ACM Comput. Surv., vol. 57, no. 1, 2024.
+ER  - 
+
+TY  - GEN
+ID  - 8
+TI  - Ransomware detection and classification strategies
+PY  - 2023
+N1  - A. Vehabovic, N. Ghani, E. Bou-Harb, J. Crichigno, and A. Yayimli, “Ransomware detection and classification strategies,” arXiv:2304.04398, 2023 (preprint).
+UR  - https://arxiv.org/abs/2304.04398
+ER  - 
+
+TY  - GEN
+ID  - 9
+TI  - European Union Agency for Cybersecurity, ENISA Threat Landscape 2024, Sep. 2024. [Online]. Available: https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024
+PY  - 2024
+N1  - European Union Agency for Cybersecurity, ENISA Threat Landscape 2024, Sep. 2024. [Online]. Available: https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024
+UR  - https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024
+ER  - 
+
+TY  - GEN
+ID  - 10
+TI  - Automated behavioral analysis of malware: A case study of WannaCry ransomware
+PY  - 2017
+N1  - Q. Chen and R. A. Bridges, “Automated behavioral analysis of malware: A case study of WannaCry ransomware,” in Proc. 16th IEEE Int. Conf. Mach. Learn. Appl. (ICMLA), Cancun, Mexico, 2017, pp. 454–460.
+ER  - 
+
+TY  - GEN
+ID  - 11
+TI  - Automated dynamic analysis of ransomware: Benefits, limitations and use for detection
+PY  - 2016
+N1  - D. Sgandurra, L. Muñoz-González, R. Mohsen, and E. C. Lupu, “Automated dynamic analysis of ransomware: Benefits, limitations and use for detection,” arXiv:1609.03020, 2016 (preprint).
+ER  - 
+
+TY  - GEN
+ID  - 12
+TI  - Player 3 has entered the game: Say hello to ‘WannaCry’
+PY  - 2017
+N1  - Cisco Talos, “Player 3 has entered the game: Say hello to ‘WannaCry’,” Talos Intelligence Blog, May 12, 2017. [Online]. Available: https://blog.talosintelligence.com/wannacry/
+UR  - https://blog.talosintelligence.com/wannacry/
+ER  - 
+
+TY  - GEN
+ID  - 13
+TI  - The static analysis of WannaCry ransomware
+PY  - 2018
+N1  - S.-C. Hsiao and D.-Y. Kao, “The static analysis of WannaCry ransomware,” in Proc. 20th Int. Conf. Adv. Commun. Technol. (ICACT), Chuncheon, Korea, 2018, pp. 153–158.
+ER  - 
+
+TY  - GEN
+ID  - 14
+TI  - The dynamic analysis of WannaCry ransomware
+PY  - 2018
+N1  - D.-Y. Kao and S.-C. Hsiao, “The dynamic analysis of WannaCry ransomware,” in Proc. 20th Int. Conf. Adv. Commun. Technol. (ICACT), Chuncheon, Korea, 2018, pp. 159–166.
+ER  - 
+
+TY  - GEN
+ID  - 15
+TI  - WannaCry ransomware: Analysis of infection, persistence, recovery prevention and propagation mechanisms
+PY  - 2019
+N1  - M. Akbanov, V. G. Vassilakis, and M. D. Logothetis, “WannaCry ransomware: Analysis of infection, persistence, recovery prevention and propagation mechanisms,” J. Telecommun. Inf. Technol., vol. 75, no. 1, pp. 113–124, 2019.
+ER  - 
+
+TY  - GEN
+ID  - 16
+TI  - Ransomware detection and mitigation using software-defined networking: The case of WannaCry
+PY  - 2019
+N1  - M. Akbanov, V. G. Vassilakis, and M. D. Logothetis, “Ransomware detection and mitigation using software-defined networking: The case of WannaCry,” Comput. Electr. Eng., vol. 76, pp. 111–121, 2019.
+ER  - 
+
+TY  - GEN
+ID  - 17
+TI  - Customer guidance for WannaCrypt attacks
+PY  - 2017
+N1  - Microsoft Security Response Center, “Customer guidance for WannaCrypt attacks,” May 12, 2017. [Online]. Available: https://msrc.microsoft.com/blog/2017/05/customer-guidance-for-wannacrypt-attacks/
+UR  - https://msrc.microsoft.com/blog/2017/05/customer-guidance-for-wannacrypt-attacks/
+ER  - 
+
+TY  - GEN
+ID  - 18
+TI  - How to accidentally stop a global cyber attacks
+PY  - 2017
+N1  - M. Hutchins (MalwareTech), “How to accidentally stop a global cyber attacks,” May 13, 2017. [Online]. Available: https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html
+UR  - https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html
+ER  - 
+
+TY  - GEN
+ID  - 19
+TI  - Detecting lateral movement: A systematic survey
+PY  - 2024
+N1  - C. Smiliotopoulos, G. Kambourakis, and C. Kolias, “Detecting lateral movement: A systematic survey,” Heliyon, vol. 10, no. 4, art. e26317, 2024. doi: 10.1016/j.heliyon.2024.e26317.
+DO  - 10.1016/j.heliyon.2024.e26317
+UR  - https://doi.org/10.1016/j.heliyon.2024.e26317
+ER  - 
+
+TY  - GEN
+ID  - 20
+TI  - UNVEIL: A large-scale, automated approach to detecting ransomware
+PY  - 2016
+N1  - A. Kharraz, S. Arshad, C. Mulliner, W. Robertson, and E. Kirda, “UNVEIL: A large-scale, automated approach to detecting ransomware,” in Proc. 25th USENIX Secur. Symp., Austin, TX, USA, 2016, pp. 757–772.
+ER  - 
+
+TY  - GEN
+ID  - 21
+TI  - CryptoLock (and drop it): Stopping ransomware attacks on user data
+PY  - 2016
+N1  - N. Scaife, H. Carter, P. Traynor, and K. R. B. Butler, “CryptoLock (and drop it): Stopping ransomware attacks on user data,” in Proc. IEEE 36th Int. Conf. Distrib. Comput. Syst. (ICDCS), Nara, Japan, 2016, pp. 303–312.
+ER  - 
+
+TY  - GEN
+ID  - 22
+TI  - Real-time system call-based ransomware detection
+PY  - 2024
+N1  - C. J. W. Chew, V. Kumar, P. Patros, and R. Malik, “Real-time system call-based ransomware detection,” Int. J. Inf. Secur., vol. 23, pp. 1839–1858, 2024. doi: 10.1007/s10207-024-00819-x.
+DO  - 10.1007/s10207-024-00819-x
+UR  - https://doi.org/10.1007/s10207-024-00819-x
+ER  - 
+
+TY  - GEN
+ID  - 23
+TI  - Behavioural analysis and results of malware and ransomware using optimal behavioural feature set
+PY  - 2024
+N1  - L. B. Bhagwat and B. M. Patil, “Behavioural analysis and results of malware and ransomware using optimal behavioural feature set,” Int. J. Inf. Comput. Secur., vol. 23, no. 1, pp. 57–78, 2024. doi: 10.1504/IJICS.2024.136719.
+DO  - 10.1504/IJICS.2024.136719
+UR  - https://doi.org/10.1504/IJICS.2024.136719
+ER  - 
+
+TY  - GEN
+ID  - 24
+TI  - ShieldFS: A self-healing, ransomware-aware filesystem
+PY  - 2016
+N1  - A. Continella et al., “ShieldFS: A self-healing, ransomware-aware filesystem,” in Proc. 32nd Annu. Comput. Secur. Appl. Conf. (ACSAC), Los Angeles, CA, USA, 2016, pp. 336–347.
+ER  - 
+
+TY  - GEN
+ID  - 25
+TI  - PayBreak: Defense against cryptographic ransomware
+PY  - 2017
+N1  - E. Kolodenker, W. Koch, G. Stringhini, and M. Egele, “PayBreak: Defense against cryptographic ransomware,” in Proc. ACM Asia Conf. Comput. Commun. Secur. (AsiaCCS), Abu Dhabi, UAE, 2017, pp. 599–611.
+ER  - 
+
+TY  - GEN
+ID  - 26
+TI  - wannakey: Software for recovering WannaCry RSA private keys
+PY  - 2017
+N1  - A. Guinet, “wannakey: Software for recovering WannaCry RSA private keys,” GitHub repository, 2017. [Online]. Available: https://github.com/aguinet/wannakey
+UR  - https://github.com/aguinet/wannakey
+ER  - 
+
+TY  - GEN
+ID  - 27
+TI  - Ransomware risk management: A cybersecurity framework profile
+PY  - 2022
+N1  - B. Fisher, M. Souppaya, W. Barker, and K. Scarfone, “Ransomware risk management: A cybersecurity framework profile,” NIST IR 8374, 2022. doi: 10.6028/NIST.IR.8374.
+DO  - 10.6028/NIST.IR.8374
+UR  - https://doi.org/10.6028/NIST.IR.8374
+ER  - 
+
+TY  - GEN
+ID  - 28
+TI  - #StopRansomware guide
+PY  - 2023
+N1  - CISA, FBI, NSA, and MS-ISAC, “#StopRansomware guide,” Oct. 2023. [Online]. Available: https://www.cisa.gov/stopransomware/ransomware-guide
+UR  - https://www.cisa.gov/stopransomware/ransomware-guide
+ER  - 
+
+TY  - GEN
+ID  - 29
+TI  - GuardFS: A file system for integrated detection and mitigation of Linux-based ransomware
+PY  - 2024
+N1  - J. von der Assen, C. Feng, A. Huertas Celdrán, R. Oleš, G. Bovet, and B. Stiller, “GuardFS: A file system for integrated detection and mitigation of Linux-based ransomware,” arXiv:2401.17917, 2024 (preprint).
+UR  - https://arxiv.org/abs/2401.17917
+ER  - 
+
+TY  - GEN
+ID  - 30
+TI  - Lessons learned review of the WannaCry ransomware cyber attack
+PY  - 2018
+N1  - W. Smart, “Lessons learned review of the WannaCry ransomware cyber attack,” Dept. of Health and Social Care, London, U.K., Feb. 2018.
+ER  - 
+
+TY  - GEN
+ID  - 31
+TI  - A retrospective impact analysis of the WannaCry cyberattack on the NHS
+PY  - 2019
+N1  - S. Ghafur, S. Kristensen, K. Honeyford, G. Martin, A. Darzi, and P. Aylin, “A retrospective impact analysis of the WannaCry cyberattack on the NHS,” npj Digit. Med., vol. 2, Art. no. 98, 2019.
+ER  - 
+
+TY  - GEN
+ID  - 32
+TI  - Trends in ransomware attacks on US hospitals, clinics, and other health care delivery organizations, 2016–2021
+PY  - 2022
+N1  - H. T. Neprash et al., “Trends in ransomware attacks on US hospitals, clinics, and other health care delivery organizations, 2016–2021,” JAMA Health Forum, vol. 3, no. 12, art. e224873, 2022. doi: 10.1001/jamahealthforum.2022.4873.
+DO  - 10.1001/jamahealthforum.2022.4873
+UR  - https://doi.org/10.1001/jamahealthforum.2022.4873
+ER  - 
+
+TY  - GEN
+ID  - 33
+TI  - Characteristics of short-term acute care hospitals that experienced a ransomware attack from 2016 to 2021
+PY  - 2023
+N1  - C. C. McGlave, S. S. Nikpay, C. Henning-Smith, K. Rydberg, and H. T. Neprash, “Characteristics of short-term acute care hospitals that experienced a ransomware attack from 2016 to 2021,” Health Aff. Scholar, vol. 1, no. 3, art. qxad037, 2023. doi: 10.1093/haschl/qxad037.
+DO  - 10.1093/haschl/qxad037
+UR  - https://doi.org/10.1093/haschl/qxad037
+ER  - 
+
+TY  - GEN
+ID  - 34
+TI  - Ransomware attack associated with disruptions at adjacent emergency departments in the US
+PY  - 2023
+N1  - C. Dameff et al., “Ransomware attack associated with disruptions at adjacent emergency departments in the US,” JAMA Netw. Open, vol. 6, no. 5, art. e2312270, 2023. doi: 10.1001/jamanetworkopen.2023.12270.
+DO  - 10.1001/jamanetworkopen.2023.12270
+UR  - https://doi.org/10.1001/jamanetworkopen.2023.12270
+ER  - 
+
+TY  - GEN
+ID  - 35
+TI  - Ransomware attacks, ED visits and inpatient admissions in targeted and nearby hospitals
+PY  - 2024
+N1  - R. Abouk and D. Powell, “Ransomware attacks, ED visits and inpatient admissions in targeted and nearby hospitals,” JAMA, vol. 331, no. 24, pp. 2129–2131, 2024. doi: 10.1001/jama.2024.7752.
+DO  - 10.1001/jama.2024.7752
+UR  - https://doi.org/10.1001/jama.2024.7752
+ER  - 
+
+TY  - GEN
+ID  - 36
+TI  - WannaCry: Ransomware attacks show strong links to Lazarus group
+PY  - 2017
+N1  - Symantec Security Response, “WannaCry: Ransomware attacks show strong links to Lazarus group,” May 22, 2017. [Online]. Available: https://www.symantec.com/connect/blogs/wannacry-ransomware-attacks-show-strong-links-lazarus-group
+UR  - https://www.symantec.com/connect/blogs/wannacry-ransomware-attacks-show-strong-links-lazarus-group
+ER  - 
+
+TY  - GEN
+ID  - 37
+TI  - Press briefing on the attribution of the WannaCry malware attack to North Korea
+PY  - 2017
+N1  - The White House, “Press briefing on the attribution of the WannaCry malware attack to North Korea,” Washington, DC, USA, Dec. 19, 2017.
+ER  - 
+
+TY  - GEN
+ID  - 38
+TI  - North Korean regime-backed programmer charged with conspiracy to conduct multiple cyber attacks and intrusions
+PY  - 2018
+N1  - U.S. Department of Justice, “North Korean regime-backed programmer charged with conspiracy to conduct multiple cyber attacks and intrusions,” Press release, Sep. 6, 2018.
+ER  - 
+
+TY  - GEN
+ID  - 39
+TI  - Tracking ransomware end-to-end
+PY  - 2018
+N1  - D. Y. Huang et al., “Tracking ransomware end-to-end,” in Proc. IEEE Symp. Secur. Privacy (SP), San Francisco, CA, USA, 2018, pp. 618–631.
+ER  - 
+
+TY  - GEN
+ID  - 40
+TI  - European Union Agency for Cybersecurity, ENISA Threat Landscape for Ransomware Attacks, Jul. 2022. [Online]. Available: https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-ransomware-attacks
+PY  - 2022
+N1  - European Union Agency for Cybersecurity, ENISA Threat Landscape for Ransomware Attacks, Jul. 2022. [Online]. Available: https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-ransomware-attacks
+UR  - https://www.enisa.europa.eu/publications/enisa-threat-landscape-for-ransomware-attacks
+ER  - 
+
